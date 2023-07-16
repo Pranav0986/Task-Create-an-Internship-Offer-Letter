@@ -1,0 +1,138 @@
+body {
+  padding-top: 30px;
+  padding-bottom: 0;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  background-color: #000;
+}
+
+.box {
+  width: 80vh;
+  height: 100vh;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 5px;
+  font-family: "Nunito Sans", sans-serif;
+  padding: 25px 25px 0 25px;
+}
+.box h4 {
+  background-color: transparent;
+  font-size: 22px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  color: rgba(95, 123, 205, 255);
+}
+.box h2 {
+  background-color: transparent;
+  font-size: 10px;
+  margin-top: 5px;
+}
+
+.box .heading h1 {
+  background-color: transparent;
+  margin-top: 45px;
+  font-size: 32px;
+  font-weight: 1000;
+  border-bottom: 1px solid rgba(95, 123, 205, 255);
+  width: 350px;
+  line-height: 30px;
+  color: rgba(95, 123, 205, 255);
+}
+.box h1 strong {
+  font-weight: bold;
+  margin-top: 5px;
+}
+.box span {
+  color: #000;
+  font-weight: bolder;
+}
+.box .first {
+  margin-bottom: 10%;
+  font-family: sans-serif;
+}
+.box .first span {
+  color: #000;
+  font-weight: bold;
+}
+.box .first p {
+  line-height: 25px;
+  font-size: 16px;
+  word-spacing: 5px;
+  text-align: justify;
+  color: #000000a9;
+}
+.boc .second {
+  font-family: sans-serif;
+}
+.box .second p {
+  line-height: 25px;
+  font-size: 16px;
+  word-spacing: 2px;
+  text-align: justify;
+  color: #000000a9;
+}
+.box .second span {
+  color: #000;
+  font-weight: bold;
+}
+.box .third {
+  font-family: sans-serif;
+  padding-bottom: 30px;
+}
+.box .third p {
+  line-height: 25px;
+  font-size: 16px;
+  word-spacing: 5px;
+  text-align: justify;
+  color: #000000a9;
+}
+.box .third span {
+  color: #000;
+  font-weight: bold;
+}
+
+.fourth img {
+  float: left;
+  width: 100px;
+  height: 70px;
+  text-align: left;
+}
+.fifth img {
+  float: right;
+  width: 150px;
+  height: 120px;
+  text-align: left;
+}
+.sixth h4 {
+  font-family: sans-serif;
+  color: rgba(95, 123, 205, 255);
+  font-size: 18px;
+  font-weight: bold;
+  display: right;
+}
+
+.img {
+  margin: 5px;
+  width: 120px;
+  height: 120px;
+  float: right;
+  text-align: center;
+  font-weight: 600;
+  font-size: 25px;
+  text-decoration: underline;
+}
+.img img {
+  height: 120px;
+}
+.box p {
+  font-weight: 100;
+}
+.link{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
